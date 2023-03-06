@@ -2,12 +2,12 @@
 
 **1.** What is the entrypoint of an application?
 <!-- enter you answer in the space below -->
-```
+```the entry point is where execution of the app typically begins.
 -the entry point of a Vue.js application is the main.js file, which creates a new Vue instance and mounts it to the DOM.
 ```
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
-```
+```a page and a component are essentially both components but have different purposes and function differently.
 -they are essentially both components but serve different purposes.
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
